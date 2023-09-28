@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
 <body>
   <h1>Terraform Project Server 1</h1>
   <h2>Instance ID: <span style="color:green">$INSTANCE_ID</span></h2>
-  <p>This is terraform project make by Sumit Gupta and this is WEBPAGE 1</p>
+  <p>A Terraform project created by Sumit Gupta. This is WEBPAGE 1</p>
   
 </body>
 </html>
