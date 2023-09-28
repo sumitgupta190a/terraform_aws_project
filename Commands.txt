@@ -1,0 +1,8 @@
+This is the basic commands of terraform.....
+terraform validate //To validate the code
+terraform init //To initialize the terraform code
+terraform plan 
+terraform apply 
+terraform apply -auto-approve       //This command is not ask for yes or no
+terraform destroy       //To destroy everything jo ki terraform ne create kiya hai
+terraform destroy -auto-approve     //This command is not ask for yes or no
